@@ -6,7 +6,11 @@ Use this section to describe your final project and perhaps any links to relevan
 
 ## Installation
 
-Use this section to include all steps needed to download your project including installing dependencies and seeding your a database.
+Run the following command to create the database:
+
+```
+createdb name_of_db
+```
 
 ## Priority Matrix
 ![Matrix](https://github.com/sshakya01/bucketlist/blob/master/MVPwireframe/Project2_timepriority_matrix.jpg)
